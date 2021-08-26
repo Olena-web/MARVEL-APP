@@ -1,6 +1,6 @@
 module.exports = {
   pwa: {
-    name: 'marvel',
-    themeColor: '#212121'
-  }
-}
+    name: "MARVEL-APP",
+    themeColor: "#212121",
+  },
+};
